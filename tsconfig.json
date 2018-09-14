@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "es2017",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "declaration": true,
+      "removeComments": true,
+      "noLib": false,
+      "noEmitOnError": true,
+      "sourceMap": false,
+      "outDir": "build"
+    },
+    "files": [
+      "src/index.ts"
+    ],
+    "exclude": []
+  }

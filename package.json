@@ -1,0 +1,24 @@
+{
+  "name": "nodemailer-pug-engine",
+  "version": "1.0.0",
+  "description": "A nodemailer plugin for pug templates",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node test/index.ts",
+    "build": "tsc"
+  },
+  "author": "Yannic Kalka",
+  "license": "MIT",
+  "dependencies": {
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^4.6.5",
+    "@types/pug": "^2.0.4",
+    "nodemailer": "^4.6.8",
+    "nodemailer-file-transport": "^1.2.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
