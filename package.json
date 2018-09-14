@@ -1,6 +1,6 @@
 {
   "name": "nodemailer-pug-engine",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A nodemailer plugin for pug templates",
   "main": "build/index.js",
   "scripts": {
