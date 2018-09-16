@@ -2,10 +2,10 @@
   "name": "nodemailer-pug-engine",
   "version": "1.0.0",
   "description": "A nodemailer plugin for pug templates",
-  "main": "build/index.js",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node test/index.ts",
+    "dev": "ts-node test/index.ts",
     "build": "tsc",
     "postversion": "git push --follow-tags && npm publish",
     "prepublish": "npm run build"

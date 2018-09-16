@@ -1,3 +1,5 @@
-build/
+.idea/
 node_modules/
-*.html
+test/*.html
+lib/index.d.ts
+lib/index.js
