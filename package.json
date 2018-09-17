@@ -5,7 +5,7 @@
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "scripts": {
-    "dev": "ts-node test/index.ts",
+    "dev": "ts-node dev/index.ts",
     "build": "tsc",
     "postversion": "git push --follow-tags && npm publish",
     "prepublish": "npm run build"
