@@ -28,5 +28,16 @@
     "nodemailer": "^4.6.8",
     "nodemailer-file-transport": "^1.2.1",
     "ts-node": "^7.0.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YKalka/nodemailer-pug-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YKalka/nodemailer-pug-engine/issues"
+  },
+  "homepage": "https://github.com/YKalka/nodemailer-pug-engine#readme"
 }
