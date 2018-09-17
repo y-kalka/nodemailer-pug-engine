@@ -1,5 +1,5 @@
 .idea/
 node_modules/
-test/*.html
+dev/*.html
 lib/index.d.ts
 lib/index.js
