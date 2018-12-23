@@ -43,6 +43,4 @@ mailer.sendMail({
 **template** {string} *optional* - defines the template relative to the pugEngine templateDir
 
 **ctx** {object} *optional* - this is the available context in the pug template
-
-### Todos
-[ ] - Cache compiled templates 
+ 
