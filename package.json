@@ -19,15 +19,15 @@
   "author": "Yannic Kalka",
   "license": "MIT",
   "dependencies": {
-    "pug": "^2.0.4"
+    "pug": "^3.0.0"
   },
   "devDependencies": {
     "@types/nodemailer": "^6.4.0",
     "@types/pug": "^2.0.4",
-    "nodemailer": "^6.4.6",
+    "nodemailer": "^6.4.18",
     "nodemailer-file-transport": "^1.2.1",
-    "ts-node": "^8.8.1",
-    "typescript": "^3.8.3"
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.9"
   },
   "directories": {
     "lib": "lib"
