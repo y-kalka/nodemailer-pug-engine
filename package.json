@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/nodemailer": "^6.4.4",
     "@types/pug": "^2.0.5",
-    "nodemailer": "^6.6.3",
+    "nodemailer": "^8.0.4",
     "nodemailer-file-transport": "^1.2.1",
     "ts-node": "^10.2.1",
     "typescript": "^4.4.2"
